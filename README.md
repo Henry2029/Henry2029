@@ -1,0 +1,3 @@
+- 👋 Hola, soy @Henry2029
+- 👀 Me interesa todo lo relacionado a la programación y a las computadoras
+- 🌱 Actualmente estoy aprendiendo Informática
